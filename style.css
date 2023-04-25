@@ -73,7 +73,7 @@ body {
 .heading__secondary {
 font-size: 3.5rem;
 text-transform: uppercase;
-font-weight: 700;
+font-weight: 701;
 background-image: linear-gradient( to right bottom, hsl(111, 55%, 64%),hsla(160, 64%, 43%, 0.973));
 display: inline-block;
 -webkit-background-clip:text;
